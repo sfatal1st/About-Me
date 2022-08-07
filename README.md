@@ -6,4 +6,5 @@
 Желание работать в веб-разработке - 100%
 
 # Мое фото: 
-https://krasivosti.pro/uploads/posts/2021-04/1617962682_12-p-zhalobnii-kotik-13.jpg
+
+![1617962682_12-p-zhalobnii-kotik-13](https://user-images.githubusercontent.com/105299426/183299666-fe4cf2d7-d497-424f-a63e-24858caecf95.jpg)
